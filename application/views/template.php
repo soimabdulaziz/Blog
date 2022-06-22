@@ -139,7 +139,7 @@
     <div class="pull-right hidden-xs">
       <b></b> 
     </div>
-    <strong>Copyright &copy; 2021 <a href="">Survey Tower</a>.</strong>
+    <strong>Copyright &copy; 2021 <a href=""></a>.</strong>
   </footer>
 
   <!-- Control Sidebar -->
